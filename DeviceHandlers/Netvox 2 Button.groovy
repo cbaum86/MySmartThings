@@ -1,5 +1,5 @@
 /**  
- *  Netvox Dimmer Zigbee Switch ZB02B  
+ *  Netvox Dimmer Zigbee Switch ZB02B Test
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
